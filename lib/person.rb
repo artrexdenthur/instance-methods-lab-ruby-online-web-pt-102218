@@ -1,7 +1,4 @@
 class Person
-  def initialize
-    nop
-  end
   
   def talk
     puts "Hello World!"
