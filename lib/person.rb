@@ -1,6 +1,6 @@
 class Person
   def initialize
-    talk
+    nop
   end
   
   def talk
